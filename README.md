@@ -55,4 +55,4 @@ OXIDER OS adalah firmware monitoring kesehatan berperforma tinggi yang dirancang
 3. Build dan Upload ke perangkat Anda.
 
 ---
-Developed for the HBSPO UnityVR ecosystem.
+
